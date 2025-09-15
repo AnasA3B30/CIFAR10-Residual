@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- [Your Name](https://github.com/AnasA3B30)
+- [Anas Ahmed](https://github.com/AnasA3B30)
 
 ---
 For questions, suggestions, or contributions, please open an issue or pull request.
